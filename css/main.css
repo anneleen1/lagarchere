@@ -552,7 +552,7 @@ footer {
 }
 
 .data-wrapper .DateRangePicker{
-  width: 1300px;
+  width: 1100px;
   min-height: 530px;
 }
 
@@ -563,8 +563,7 @@ footer {
 }
 
 .data-wrapper .DateRangePicker__Date {
-  height: 45px;
-  width: 45px;
+  height: 30px;
 }
 
 .data-wrapper .DateRangePicker__DateLabel {
@@ -573,7 +572,7 @@ footer {
 }
 
 .data-wrapper .DateRangePicker__PaginationArrow--next {
-  right: 270px;
+  right: 70px;
 }
 
 .data-wrapper .DateRangePicker__Date--weekend {
@@ -585,6 +584,8 @@ footer {
   font-weight: 400;
   font-size: 1.8rem;
   color: #1F1F1F;
+  margin-top: -30px;
+  margin-bottom: 30px;
 }
 
 .data-wrapper .DateRangePicker__Weekdays {

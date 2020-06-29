@@ -152,7 +152,7 @@ function Reserveren({data, jwt}) {
                 text-align: center;
             }
             .section-reserveren h1 { margin: 40px 0; }
-            .section-reserveren h2 { margin: 20px 0 10px 0; }
+            .section-reserveren h2 { margin: 20px 0 40px 0; }
             .section-reserveren { background-color: #EAE3D2; }
             .button-overzicht {
                 width: 100%;
