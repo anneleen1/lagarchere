@@ -553,15 +553,27 @@ footer {
 
 .data-wrapper .DateRangePicker{
   width: 1300px;
+  min-height: 530px;
 }
 
 .data-wrapper .DateRangePicker__Month {
   width: 400px;
   height: 400px;
+  margin-bottom: 70px;
 }
 
 .data-wrapper .DateRangePicker__Date {
   height: 45px;
+  width: 45px;
+}
+
+.data-wrapper .DateRangePicker__DateLabel {
+  line-height: 45px;
+  font-size: 1rem;
+}
+
+.data-wrapper .DateRangePicker__PaginationArrow--next {
+  right: 270px;
 }
 
 .data-wrapper .DateRangePicker__Date--weekend {
