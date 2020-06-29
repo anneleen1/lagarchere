@@ -480,6 +480,10 @@ footer {
   .data-wrapper .DateRangePicker__Month {
     padding: 0 40px;
   }
+  .data-wrapper .DateRangePicker{
+    width: 1100px;
+    min-height: 530px;
+  }
 }
 
 
@@ -551,10 +555,7 @@ footer {
   right: 0;
 }
 
-.data-wrapper .DateRangePicker{
-  width: 1100px;
-  min-height: 530px;
-}
+
 
 .data-wrapper .DateRangePicker__Month {
   width: 400px;
